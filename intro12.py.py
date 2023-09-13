@@ -1,0 +1,5 @@
+csuYear = int(input("please enter year:"))
+print('You entered',csuYear)
+ccBirthYear = int(input("please enter year:"))
+print('You entered',ccBirthYear)
+print('CSU was known as Columbus College for its first',csuYear-ccBirthYear, 'years')
